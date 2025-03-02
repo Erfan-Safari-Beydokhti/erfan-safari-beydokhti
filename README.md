@@ -1,11 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 <h3 align="center">A passionate IOT developer from Iran</h3>
-- 📫 How to reach me **erfansafari.b.86@gmail.com**
+<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">- 🔭 I’m working on Industrial Internet of Things<br>- 📚 I'm currently learning Cloud computing and Electronic</p>
+
 <img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA5MTY0MzUsIm5iZiI6MTc0MDkxNjEzNSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAyVDExNDg1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiNDFhNGJkNjFjYTkyNGEyZDcyZTE5NTQyZWU5YTllZTQ1NTc1NTg3OTJlYzIyMTE0NzU1MzNiMzVlYjk2ODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pqaZ8cdEeIhSSczrQIzVxammJvjaKlOn19f9mHfx6wM"  />
 
 
-
+<h3 align="left">🛠 Language and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -31,8 +33,9 @@
 </div>
 
 
-
+<h3 align="left">🔗  contact me</h3>
 <div align="left">
+  
   <a href="https://www.instagram.com/i.am_erfan.s?igsh=MXh6eDE4MWFkbGtwMw==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
