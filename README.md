@@ -4,7 +4,7 @@
 <h3 align="left"> 💻 About Me</h3>
 <p align="left">- 🔭 I’m working on Industrial Internet of Things<br>- 📚 I'm currently learning Python programming and Web Application</p>
 
-<img align="right" height="150" src="[public/gifs/pic1.gif](https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/pic1.gif)"  />
+<img align="right" height="150" src="pic1.gif"  />
 
 
 <h3 align="left">🛠 Language and tools</h3>
