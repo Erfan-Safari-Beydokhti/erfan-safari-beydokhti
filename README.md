@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 <h3 align="center">A passionate IOT developer from Iran</h3>
 <h3 align="left"> 💻 About Me</h3>
-<p align="left">- 🔭 I’m working on Industrial Internet of Things<br>- 📚 I'm currently learning Cloud computing and Electronic</p>
+<p align="left">- 🔭 I’m working on Industrial Internet of Things<br>- 📚 I'm currently learning Python programming and Web Application</p>
 
 <img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA5MTY0MzUsIm5iZiI6MTc0MDkxNjEzNSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAyVDExNDg1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiNDFhNGJkNjFjYTkyNGEyZDcyZTE5NTQyZWU5YTllZTQ1NTc1NTg3OTJlYzIyMTE0NzU1MzNiMzVlYjk2ODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pqaZ8cdEeIhSSczrQIzVxammJvjaKlOn19f9mHfx6wM"  />
 
